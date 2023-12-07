@@ -30,7 +30,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/xxHala/Q-pros-nextJs-task.git)
+  git clone (https://github.com/xxHala/Q-pros-nextJs-task.git)
 ```
 
 Go to the project directory
