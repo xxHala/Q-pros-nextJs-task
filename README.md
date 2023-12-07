@@ -1,32 +1,65 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Q-Pros Full stack task
 
-First, run the development server:
+This is for q-pros full stask assignment
+
+## Run-Locally
+
+To Run this project run:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+  npm run dev
+```
+then go to : [localhost](http://localhost:3000/) to see the result.
+
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file <these was provided by the email>
+
+`MONGODB_URI`
+
+`NEXTAUTH_SECRET`
+
+
+    
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone [https://link-to-project](https://github.com/xxHala/Q-pros-nextJs-task.git)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Go to the project directory
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+  cd Q-pros-nextJs-task
+```
 
-## Learn More
+Install dependencies
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+  npm install
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Start the server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+  npm run dev
+```
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
