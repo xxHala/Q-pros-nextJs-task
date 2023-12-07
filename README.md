@@ -1,7 +1,11 @@
-
+<img width="566" alt="Screenshot 2023-12-07 at 2 26 27 PM" src="https://github.com/xxHala/Q-pros-nextJs-task/assets/68159055/5bae0a07-c7ef-462c-815a-e627310be1c2">
 # Q-Pros Full stack task
 
-This is for q-pros full stask assignment
+This is for q-pros full stack assignment
+
+## node-version  18 
+or
+## Simply run nvm use.
 
 ## Run-Locally
 
@@ -51,6 +55,7 @@ Start the server
 
 ## Screenshots
 
+<img width="566" alt="Screenshot 2023-12-07 at 2 26 27 PM" src="https://github.com/xxHala/Q-pros-nextJs-task/assets/68159055/e7401388-202e-42e5-a025-1f29c5a49148">
 
 
 ## Usage/Examples
